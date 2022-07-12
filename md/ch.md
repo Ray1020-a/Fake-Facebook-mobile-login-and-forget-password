@@ -2,9 +2,9 @@
 <br><br>
 🌐 README Languages
 <br>
-&emsp;&nbsp;[ ]　[English](../README.md)<br>
-&emsp;&nbsp;[ ]　[中文繁體](tw.md)<br>
->&emsp;&nbsp;[✓]　中文簡体
+&emsp;&nbsp;[→]　[English](../README.md)<br>
+&emsp;&nbsp;[→]　[中文繁體](tw.md)<br>
+&emsp;&nbsp;[✓]　中文簡体
 <br><br><br><br>
 🚫禁止非法使用和无意义行为🚫<br>
 ✅本项目仅用于学习目的✅<br>
