@@ -1,9 +1,9 @@
 # <img src="https://www.facebook.com/images/fb_icon_325x325.png" width=32>**仿Facebook手機版登入介面**
 <br><br>
 🌐 README Languages<br>
-&emsp;&nbsp;[   ]　[English](../README.md)<br>
+&emsp;&nbsp;[→]　[English](../README.md)<br>
 &emsp;&nbsp;[✓]　中文繁體<br>
-&emsp;&nbsp;[　]　[中文簡体](ch.md)
+&emsp;&nbsp;[→]　[中文簡体](ch.md)
 <br><br><br>
 🚫禁止非法使用和無意義行為🚫<br>
 ✅本項目僅用於學習目的✅<br>
