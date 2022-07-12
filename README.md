@@ -2,8 +2,8 @@
 <br><br>
 🌐 README Languages<br>
 &emsp;&nbsp;[✓]　English<br>
-&emsp;&nbsp;[　]　[中文繁體](md/tw.md)<br>
-&emsp;&nbsp;[　]　[中文簡体](md/ch.md)
+&emsp;&nbsp;[→]　[中文繁體](md/tw.md)<br>
+&emsp;&nbsp;[→]　[中文簡体](md/ch.md)
 <br><br><br>
 🚫Illegal use and meaningless behavior are prohibited🚫<br>
 ✅This project is for learning purpose only✅<br>
