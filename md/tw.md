@@ -2,8 +2,8 @@
 <br><br>
 🌐 README Languages
 <br>
-&emsp;&nbsp;[  ]　[English](../README.md)<br>
->&emsp;&nbsp;[✓]　中文繁體<br>
+&emsp;&nbsp;[  ]　[English](../README.md)
+>&emsp;&nbsp;[✓]　中文繁體
 &emsp;&nbsp;[　]　[中文簡体](ch.md)
 <br><br><br>
 🚫禁止非法使用和無意義行為🚫<br>
