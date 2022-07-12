@@ -5,7 +5,7 @@
 
 
 [ ]　[English](../README.md)<br>
->[✓]　中文繁體<br>
+[✓]　中文繁體<br>
 [ ]　[中文簡体](ch.md)
 
 
