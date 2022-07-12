@@ -1,0 +1,139 @@
+/* 主要物件 */
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', Helvetica, Sans-serif;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+input {
+    display: block;
+    margin: 0 auto;
+}
+a {
+    color: #365899;
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+}
+/* 帳號登入 */
+#accpass {
+	margin-bottom: 11px;
+	padding-top: 16px;
+}
+.login {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #DBDEE4;
+}
+.login::-webkit-input-placeholder {
+	font-size: 14px;
+}
+.acc {
+	height: 45px;
+    width: 450px;
+	border-bottom: .5px solid #E5E5E5;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.pass {
+	height: 45px;
+    width: 450px;
+	border-top: .5px solid #E5E5E5;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.confirm {
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+	background-color: #3578E5;
+	width: 450px;
+	height: 45px;
+	border-radius: 5px;
+	border: 1px solid #3578E5;
+    display: block;
+    margin: 0 auto;
+}
+
+#or {
+	font-size: 14px;
+	color: #4B4F56;
+	position: relative;
+}
+#or::before, #or::after {
+	content: "";
+	position: absolute;
+	width: 110px;
+	height: 1px;
+	background-color: #ccd0d5;
+	top: 50%;
+}
+#or::before {
+	right: 100%;
+	margin-right: 15px;
+}
+#or::after {
+	left: 100%;
+	margin-left: 15px;
+}
+
+#newacc {
+	height: 36px;
+	width: 169px;
+	color: white;
+	background-color: #00a400;
+	border: 1px solid #00a400;
+	border-radius: 5px;
+	font-size: 14px;
+	font-weight: bold;
+    display: block;
+    margin: 0 auto;
+}
+
+/* 文字選單與說明 */
+.language {
+	min-width: 320px;
+	width: 100%;
+	background-color: #FFF;
+}
+#lase {
+	display: flex;
+	margin-top: 20px;
+}
+.item1, .item2 {
+	flex-grow: 1;
+}
+.language #lase li {
+	list-style-type: none;
+	font-size: 12px;
+	text-align: center;
+	margin-bottom: 2px;
+}
+.language #lase li a {
+	color: #576b95;
+}
+#now {
+	color: #90949c !important;
+	font-weight: 500;
+	letter-spacing: 0.5px;
+}
+.language #lase li a .fa {
+	font-size: 24px;
+	color: #576b95;
+}
+.declare {
+	text-align: center;
+}
+.textdeclare {
+	font-size: 12px;
+	color: #808080;
+	margin: auto;
+}
+.declare span .fa {
+	color: #0274b3;
+	font-size: 14px;
+}

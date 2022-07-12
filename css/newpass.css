@@ -1,0 +1,42 @@
+a{
+    text-decoration:none
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.phone {
+	position:absolute;
+	top:45px;
+	left:15px
+}
+.newpassphone {
+	height: 45px;
+	width: 98%;
+	background-color:#F0F0F0;
+	top:80px;
+	left:80px;
+	border:3px #E5E5E5;
+	border-top: .5px solid #E5E5E5;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.cancel {
+	height: 45px;
+	width: 49%;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	color: #4A4AFF;
+	background-color:#ffffff;
+    border-color:#4A4AFF
+}
+.search {
+	height: 45px;
+	width: 49%;
+    border:2px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	color: #ffffff;
+	background-color:#4A4AFF;
+    border-color:#ffffff
+}
