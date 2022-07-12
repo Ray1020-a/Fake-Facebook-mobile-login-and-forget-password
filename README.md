@@ -7,4 +7,5 @@
 <br><br><br>
 🚫Illegal use and meaningless behavior are prohibited🚫<br>
 ✅This project is for learning purpose only✅<br>
-<img src="[https://www.facebook.com/images/fb_icon_325x325.png](https://cdn.discordapp.com/avatars/743991161189826592/2df3c32c0f5d5e0932bd0f0dd9b8f4ae.png" width=32> Author:Ray  Email:ray@rinast.xyz  Discord:叡叡#8888
+<img src="https://cdn.discordapp.com/avatars/743991161189826592/2df3c32c0f5d5e0932bd0f0dd9b8f4ae.png" width=32>
+Author:Ray  Email:ray@rinast.xyz  Discord:叡叡#8888
